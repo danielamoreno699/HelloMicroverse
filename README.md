@@ -58,13 +58,14 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+HELLO MICROVERSE 
 
-> Describe your project in 1 or 2 sentences.
+# 📖 [hello microverse] <a name="about-project"></a>
 
-**[your_project__name]** is a...
+> use github settings for microverse hello project
+
+**[hello microverse]** is a proyect that shows a html template only for practice purposes 
 
 ## 🛠 Built With <a name="built-with"></a>
 
